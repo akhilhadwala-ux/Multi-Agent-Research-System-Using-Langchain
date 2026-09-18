@@ -701,13 +701,6 @@ Through this project, I gained practical experience in:
 
 Potential improvements include:
 
-* [ ] Add source citations and references
-* [ ] Add source credibility scoring
-* [ ] Add human-in-the-loop approval
-* [ ] Add iterative Writer ↔ Critic feedback loops
-* [ ] Add research memory
-* [ ] Add parallel web research
-* [ ] Add multiple search providers
 * [ ] Add hallucination detection
 * [ ] Add LangSmith/Langfuse observability
 * [ ] Export research reports as PDF/DOCX
