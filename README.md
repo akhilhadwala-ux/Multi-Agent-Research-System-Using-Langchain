@@ -1,19 +1,3 @@
-Absolutely. Based on everything we've clarified, I would make the README **more recruiter-friendly, technically precise, and focused on the actual Y-factor** of your project.
-
-The important points to highlight are:
-
-* It is **not just an LLM Q&A application**.
-* It is an **autonomous research workflow**.
-* **Web Search Agent → Tavily**
-* **Web Scraping Agent → BeautifulSoup**
-* **Writer Chain → report generation**
-* **Critic Chain → draft evaluation**
-* **LLM → `openai/gpt-oss-120b`**
-* User provides only a **research topic**.
-* Two agents + two LangChain chains collaborate to complete the workflow.
-
-Here is the version I recommend putting in GitHub:
-
 # 🤖 Multi-Agent Research System Using LangChain
 
 An **autonomous AI-powered research system** that transforms a research topic into a structured and reviewed report using **specialized AI agents, web search, web scraping, and LangChain chains**.
